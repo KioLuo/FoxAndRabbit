@@ -100,3 +100,4 @@ public class Field {
 		remove(row, col);
 	}
 }
+
